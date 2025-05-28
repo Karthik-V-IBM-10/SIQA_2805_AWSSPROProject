@@ -14,17 +14,18 @@
     <value name="TPP_services_in_FCS">1.0</value>
     <value name="SIQAJDBCAdapterTests">1.0</value>
     <value name="DADA_GlobalVariable1">1.0</value>
+    <value name="SIQACloudStreamsTests">1.0</value>
   </record>
   <null name="listACL"/>
   <value name="webappLoad">yes</value>
   <value name="reloadWithDependentPackage">yes</value>
-  <value name="build">7</value>
+  <value name="build">8</value>
   <null name="description"/>
   <value name="created_date">28-05-2025 11:12:25 GMT</value>
   <null name="extendedProperties"/>
   <null name="target_server_version"/>
   <value name="isProjectPackage">true</value>
-  <value name="lastUpdated">2025-05-28T11:15:56.459878178Z</value>
+  <value name="lastUpdated">2025-05-28T11:16:25.943100948Z</value>
   <value name="wmProjectId">fl7619938bcf7e2120bb5e17</value>
   <value name="creator">siqa developer</value>
 </Values>
